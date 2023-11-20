@@ -14,3 +14,27 @@ h2 {
 .desc {
   font-size: 26px;
 }
+
+.kids {
+  width: 200px;
+  height: auto;
+}
+
+.cooking {
+  width: 400px;
+  height: auto;
+}
+
+.front {
+  width: 400px;
+  height: auto;
+}
+
+button {
+  font-size: 26px;
+  background-color: rgb(157, 48, 179);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0px 0px 2px 2px rgb(157, 48, 179);
+}
